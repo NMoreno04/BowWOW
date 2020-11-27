@@ -11,6 +11,8 @@
 		E505DC56256FEB97000D16DF /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E505DC55256FEB97000D16DF /* ContentView.swift */; };
 		E505DC58256FEBA0000D16DF /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E505DC57256FEBA0000D16DF /* Assets.xcassets */; };
 		E505DC5B256FEBA0000D16DF /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E505DC5A256FEBA0000D16DF /* Preview Assets.xcassets */; };
+		E505DC64256FF49B000D16DF /* RandomDog.swift in Sources */ = {isa = PBXBuildFile; fileRef = E505DC63256FF49B000D16DF /* RandomDog.swift */; };
+		E505DC6725716150000D16DF /* Person.swift in Sources */ = {isa = PBXBuildFile; fileRef = E505DC6625716150000D16DF /* Person.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -20,6 +22,8 @@
 		E505DC57256FEBA0000D16DF /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		E505DC5A256FEBA0000D16DF /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		E505DC5C256FEBA0000D16DF /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		E505DC63256FF49B000D16DF /* RandomDog.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RandomDog.swift; sourceTree = "<group>"; };
+		E505DC6625716150000D16DF /* Person.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Person.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +61,8 @@
 				E505DC57256FEBA0000D16DF /* Assets.xcassets */,
 				E505DC5C256FEBA0000D16DF /* Info.plist */,
 				E505DC59256FEBA0000D16DF /* Preview Content */,
+				E505DC63256FF49B000D16DF /* RandomDog.swift */,
+				E505DC6625716150000D16DF /* Person.swift */,
 			);
 			path = BowWOW;
 			sourceTree = "<group>";
@@ -140,6 +146,8 @@
 			files = (
 				E505DC56256FEB97000D16DF /* ContentView.swift in Sources */,
 				E505DC54256FEB97000D16DF /* BowWOWApp.swift in Sources */,
+				E505DC6725716150000D16DF /* Person.swift in Sources */,
+				E505DC64256FF49B000D16DF /* RandomDog.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
